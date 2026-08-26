@@ -29,21 +29,17 @@ I enjoy building practical solutions, understanding how things work, andturning 
 
 ### Software Development
 
-
-
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=java,js,html,css,arduino,c,cs,py&perline=4)](https://skillicons.dev)
 
 
 ### Databases
 
-
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&)](https://skillicons.dev)
 
 
 ### Tools
 
-
+[![My Skills](https://skillicons.dev/icons?i=git,github,nodejs,npm,react,vite,aws,py&perline=4)](https://skillicons.dev)
 
 ### Industrial Automation
 
