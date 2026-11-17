@@ -62,6 +62,14 @@ I enjoy building practical solutions, understanding how things work, andturning 
 
 ## 📌 Featured Projects
 
+### ⚙️ Gerador EasyBuilder Pro — G3 Automation
+
+A Windows application that reads Sysmac Studio/Omron variable spreadsheets and automatically generates EasyBuilder Pro Database/Recipe files, Transfer Data spreadsheets, and BOOL recipe macros. The project connects industrial automation workflows with practical software development, file processing, and HMI integration.
+
+Tech: Python · Tkinter · HTML/CSS/JavaScript · SQLite · Excel · Omron · EasyBuilder Pro
+
+🔗 [View the project on GitHub](https://github.com/Tiago-Fernandess/gerador-easybuilder-g3)
+
 ### 🍀 Lost and Found System API
 
 A RESTful API built with Java and Spring Boot, featuring CRUD operations, database integration, and a structured backend architecture.
